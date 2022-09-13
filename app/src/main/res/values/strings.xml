@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">shareP_10944</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="clear">Clear</string>
+    <string name="read">Read</string>
+    <string name="save">Save</string>
+</resources>
